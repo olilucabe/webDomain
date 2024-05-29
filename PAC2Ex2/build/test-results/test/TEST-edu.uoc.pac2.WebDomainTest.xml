@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.WebDomainTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-04-02T21:33:17" hostname="JURAMENTADA" time="0.042">
+  <properties/>
+  <testcase name="testIsAutoRenew()" classname="edu.uoc.pac2.WebDomainTest" time="0.016"/>
+  <testcase name="testDomainConcurrenceStatus()" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <testcase name="testSetOwnerName()" classname="edu.uoc.pac2.WebDomainTest" time="0.002"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <testcase name="testSetOwnerEmail()" classname="edu.uoc.pac2.WebDomainTest" time="0.003"/>
+  <testcase name="testIsAboutToExpire()" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <testcase name="testIsExpired()" classname="edu.uoc.pac2.WebDomainTest" time="0.0"/>
+  <testcase name="testMaxConcurrentUsers()" classname="edu.uoc.pac2.WebDomainTest" time="0.0"/>
+  <testcase name="testSetRegistrationDate()" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <testcase name="testPredictedRenewalCostByDate()" classname="edu.uoc.pac2.WebDomainTest" time="0.002"/>
+  <testcase name="testSetExpirationDate()" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <testcase name="testSetDomain()" classname="edu.uoc.pac2.WebDomainTest" time="0.002"/>
+  <testcase name="testSetHostingProvider()" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <testcase name="testIsWhoisPrivacy()" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac2.WebDomainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

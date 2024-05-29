@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\olive\\IdeaProjects\\DPOO_PAC2_v2\\PAC2Ex2\\build\\classes\\java\\main;C:\\Users\\olive\\IdeaProjects\\DPOO_PAC2_v2\\PAC2Ex2\\build\\resources\\main'
+-d 'C:\\Users\\olive\\IdeaProjects\\DPOO_PAC2_v2\\PAC2Ex2\\build\\docs\\javadoc'
+-doctitle 'PAC2Ex2 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'PAC2Ex2 1.0-SNAPSHOT API'
+'C:\\Users\\olive\\IdeaProjects\\DPOO_PAC2_v2\\PAC2Ex2\\src\\main\\java\\edu\\uoc\\pac2\\WebDomain.java'
